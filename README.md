@@ -3,10 +3,10 @@
 ## 1. Project Overview  
 - **Goal**: Develop a web-based crossword puzzle game using React.  
 - **Features**:  
-  - Automatic crossword grid generation  
-  - Interactive GUI for playing  
-  - Clue & answer validation  
-  - User-friendly interface  
+  - [ ] Automatic crossword grid generation  
+  - [ ] Interactive GUI for playing  
+  - [ ] Clue & answer validation  
+  - [ ] User-friendly interface  
 
 ## 2. Technology Stack  
 - **Frontend**: React (with Tailwind for styling)  
