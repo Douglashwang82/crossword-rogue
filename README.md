@@ -1,7 +1,7 @@
 # Project Plan: Crossword Web Game
 
 ## 1. Project Overview  
-- **Goal**: Develop a web-based crossword puzzle game using React.  
+- **Goal**: Develop a web-based crossword puzzle game using React. crossword puzzle is in 15x15
 - **Features**:  
   - [ ] Automatic crossword grid generation  
   - [ ] Interactive GUI for playing  
